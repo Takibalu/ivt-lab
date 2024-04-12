@@ -54,7 +54,7 @@ public class GT4500 implements SpaceShip {
               wasPrimaryFiredLast = true;
             }
 
-            // if both of the stores are empty, nothing can be done, return success
+            // if both of the stores are empty, nothing can be done, return fail
           }
         }
         else {
